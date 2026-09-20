@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-  <b>📍 Iran</b><br/><img src="https://img.shields.io/github/followers/mmdverse?label=Followers&amp;style=social" /> <img src="https://img.shields.io/github/stars/mmdverse?label=Stars&amp;style=social" />
+  ✨ <img src="https://img.shields.io/github/stars/mmdverse?label=%E2%AD%90%20STARS&style=for-the-badge&labelColor=F7B500&color=0d1117" alt="GitHub Stars" /> ✨
 </p>
 
 <br/>
